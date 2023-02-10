@@ -7,7 +7,7 @@ authors = ["zoey-t <101599447+zoey-t@users.noreply.github.com>"]
 license = "Apache-2.0"
 
 [dev-dependencies]
-fuels = { version = "0.35", features = ["fuel-core-lib"] }
+fuels = { version = "0.36.0", features = ["fuel-core-lib"] }
 tokio = { version = "1.12", features = ["rt", "macros"] }
 
 [[test]]
